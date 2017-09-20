@@ -1,4 +1,4 @@
-Cards = [
+Cards = [{title: "Acopio Universidad de Monterrey (UDEM)", description: "Acopio de víveres en la Universidad de Monterrey (profesional y preparatorias).", type: "Víveres", location: "Monterrey", link: "https://givepul.se/fa0zq"},
   //{title: "Donación Topos", description: "Los Topos son una asociación de rescatistas indepe…tencilios necesarios para el rescate de personas.", type: "Monetaria", location: "Global", link: "https://twitter.com/topos/status/908000616575680512"},
   {title: "Donación Topos", description: "Los Topos son una asociación de rescatistas independientes. Tu ayuda provee de los utensilios necesarios para el rescate de personas.", type: "Monetaria", location: "Global", link: "https://twitter.com/topos/status/908000616575680512"},
   {title: "Donación Cruz Roja", description: "Dona a la Cruz Roja. Ellos brindan servicio médico gratuito.", type: "Monetaria", location: "Global", link: "https://cruzrojadonaciones.org/"},
